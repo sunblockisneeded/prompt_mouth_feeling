@@ -1,4 +1,4 @@
-# prompt_mouth_feeling
+# prompt_verbose
 ```
 
 Learning Objective: To gain a deep understanding of concepts in Linear Algebra (or other mathematical/scientific fields) and to cultivate the ability to solve related problems independently.
